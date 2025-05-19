@@ -1,0 +1,5 @@
+DROP TABLE Orders;
+DROP TABLE Users;
+DROP TABLE Students;
+DROP TABLE Teachers;
+DROP TABLE Foods;
